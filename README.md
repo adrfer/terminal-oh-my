@@ -1,9 +1,9 @@
 # Pulsar
 Awesomely exquisite tuned up OS X Terminal profile.
 
-![screenshot](https://raw.githubusercontent.com/adrfer/Pulsar/master/Screenshot.png)
-
 Profile tested on `Terminal 2.6`.
+
+![screenshot](https://raw.githubusercontent.com/adrfer/Pulsar/master/Screenshot.png)
 
 ## Install
 
