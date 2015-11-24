@@ -19,3 +19,6 @@ To install, download the profile and then:
     2. Select the Profiles tab
     3. Select the profile on the list
     4. Click at the - button on the bottom
+
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/adrfer/Pulsar/master/Screenshot.png)
