@@ -21,4 +21,5 @@ To install, download the profile and then:
     4. Click at the - button on the bottom
 
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/adrfer/Pulsar/master/Screenshot.png)
+<!--![screenshot](https://raw.githubusercontent.com/adrfer/Pulsar/master/Screenshot.png)-->
+<img src="https://raw.githubusercontent.com/adrfer/Pulsar/master/Screenshot.png" width="70%" height="70%">
