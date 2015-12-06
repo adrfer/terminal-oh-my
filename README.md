@@ -7,7 +7,7 @@ Profiles tested on `Terminal 2.6`.
 
 ## Install
 
-To install, download the profile, open the **Terminal** and then:
+To install, download the profile, open **Terminal** and then:
 
 1. Go to **Preferences...** (`Command + ,`)
 2. Select the **Profiles** tab
@@ -17,9 +17,11 @@ To install, download the profile, open the **Terminal** and then:
 
 ## Uninstall
 
-To uninstall, open the **Terminal** and then:
+To uninstall, open **Terminal** and then:
 
 1. Go to **Preferences...** (`Command + ,`)
 2. Select the **Profiles** tab
 3. Select the profile on the list
 4. Click at the **-** button on the bottom
+
+Hey, looking for bash-specific badassery? Check the [Kipp](https://github.com/adrfer/Kipp) repo.
