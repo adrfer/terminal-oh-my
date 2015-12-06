@@ -24,4 +24,5 @@ To uninstall, open **Terminal** and then:
 3. Select the profile on the list
 4. Click at the **-** button on the bottom
 
+--
 Hey, looking for bash-specific badassery? Check the [Kipp](https://github.com/adrfer/Kipp) repo.
