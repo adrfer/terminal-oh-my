@@ -3,7 +3,7 @@ Awesomely exquisite tuned up OS X Terminal profiles.
 
 Profiles tested on `Terminal 2.6`.
 
-![screenshot](https://raw.githubusercontent.com/adrfer/terminal-profile/master/Screenshot.png)
+<p align="center"><img align="center" src="https://raw.githubusercontent.com/adrfer/terminal-profile/master/Screenshot.png" height="520" width="720"></p>
 
 ## Install
 
