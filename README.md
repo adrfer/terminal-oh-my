@@ -1,15 +1,15 @@
-# Pulsar
-Awesomely exquisite tuned up OS X Terminal profile.
+# Terminal Profile
+Awesomely exquisite tuned up OS X Terminal profiles.
 
-Profile tested on `Terminal 2.6`.
+Profiles tested on `Terminal 2.6`.
 
-![screenshot](https://raw.githubusercontent.com/adrfer/Pulsar/master/Screenshot.png)
+![screenshot](https://raw.githubusercontent.com/adrfer/terminal-profile/master/Screenshot.png)
 
 ## Install
 
-To install, download the profile and then:
+To install, download the profile, open the **Terminal** and then:
 
-1. Open the Terminal and go to **Preferences...** (`command + ,`)
+1. Go to **Preferences...** (`Command + ,`)
 2. Select the **Profiles** tab
 3. Drag the profile and drop it on the left pane
 4. Select the profile on the list
@@ -17,7 +17,9 @@ To install, download the profile and then:
 
 ## Uninstall
 
-1. Open the Terminal and go to **Preferences...** (`command + ,`)
+To uninstall, open the **Terminal** and then:
+
+1. Go to **Preferences...** (`Command + ,`)
 2. Select the **Profiles** tab
 3. Select the profile on the list
 4. Click at the **-** button on the bottom
