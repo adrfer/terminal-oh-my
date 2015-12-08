@@ -9,7 +9,7 @@ Profiles tested on `Terminal 2.6`.
 
 To install, download the profile, and then:
 
-1. Open **Terminal** and go to **Preferences...** (<kbd>⇧</kbd><kbd>⌘</kbd><kbd>,</kbd>)
+1. Open **Terminal** and go to **Preferences...** (<kbd>⌘</kbd><kbd>,</kbd>)
 2. Select the **Profiles** tab
 3. Drag the profile and drop it on the left pane
 4. Select the profile on the list
@@ -19,7 +19,7 @@ To install, download the profile, and then:
 
 To uninstall, just:
 
-1. Open **Terminal** and go to **Preferences...** (<kbd>⇧</kbd><kbd>⌘</kbd><kbd>,</kbd>)
+1. Open **Terminal** and go to **Preferences...** (<kbd>⌘</kbd><kbd>,</kbd>)
 2. Select the **Profiles** tab
 3. Choose the profile on the list
 4. Click at the **-** button on the bottom
