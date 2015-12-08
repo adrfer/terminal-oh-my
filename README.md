@@ -1,5 +1,5 @@
 # Terminal Profile
-Awesomely exquisite tuned up OS X Terminal profiles.
+Exquisitely so-so OS X Terminal profiles.
 
 Profiles tested on `Terminal 2.6`.
 
@@ -7,9 +7,9 @@ Profiles tested on `Terminal 2.6`.
 
 ## Install
 
-To install, download the profile, open the **Terminal** and then:
+To install, download the profile, and then:
 
-1. Go to **Preferences...** (`Command + ,`)
+1. Open **Terminal** and go to **Preferences...** (`Cmd + ,`)
 2. Select the **Profiles** tab
 3. Drag the profile and drop it on the left pane
 4. Select the profile on the list
@@ -17,9 +17,9 @@ To install, download the profile, open the **Terminal** and then:
 
 ## Uninstall
 
-To uninstall, open the **Terminal** and then:
+To uninstall, just:
 
-1. Go to **Preferences...** (`Command + ,`)
+1. Open **Terminal** and go to **Preferences...** (`Cmd + ,`)
 2. Select the **Profiles** tab
-3. Select the profile on the list
+3. Choose the profile on the list
 4. Click at the **-** button on the bottom
