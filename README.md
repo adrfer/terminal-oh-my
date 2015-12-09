@@ -5,19 +5,21 @@ Profiles tested on `Terminal 2.6`.
 
 <p align="center"><img align="center" src="https://raw.githubusercontent.com/adrfer/terminal-profile/master/Screenshot.png" height="520" width="720"></p>
 
-## Install
+## Usage
 
-To install, download the profile, and then:
+### Add
+
+To add custom profiles:
 
 1. Open **Terminal** and go to **Preferences...** ( <kbd>⌘</kbd><kbd>,</kbd> )
 2. Select the **Profiles** tab
-3. Drag the profile and drop it on the left pane
+3. Drag and drop the downloaded profile on the left pane
 4. Select the profile on the list
 5. Click at the **Default** button on the bottom
 
-## Uninstall
+### Remove
 
-To uninstall, just:
+To remove custom profiles:
 
 1. Open **Terminal** and go to **Preferences...** ( <kbd>⌘</kbd><kbd>,</kbd> )
 2. Select the **Profiles** tab
