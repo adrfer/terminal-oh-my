@@ -1,7 +1,7 @@
 # Terminal Profile
 Exquisitely so-so macOS Terminal profiles.
 
-Tested on `Terminal 2.7`.
+Tested against `Terminal 2.7`.
 
 <p align="center"><img align="center" src="https://raw.githubusercontent.com/adrfer/terminal-profile/master/Screenshot.png" height="520" width="720"></p>
 
